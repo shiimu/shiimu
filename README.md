@@ -13,7 +13,7 @@ I love the outdoors, to code and improve myself in any way possible. Find me on 
 
 
 ## :construction_worker: What I do:
-- Backend Development
-- API Development
 - Web Development
 - Hiking
+- Walking my dog
+- Writing this page
